@@ -11,4 +11,4 @@ This project looked at the injury statistics from the NFL over the past decade. 
 
 `import matplotlib.pyplot as plt` - This package is needed to graph the statistics you found.
 
-`%pip install pyarrow` - This is necessary to turn the Polars Dataframes created from the nflreadpy package into a Pandas DataFrame
+`%pip install pyarrow` - This is necessary to turn the Polars Dataframes created using the nflreadpy package into a Pandas DataFrame.
