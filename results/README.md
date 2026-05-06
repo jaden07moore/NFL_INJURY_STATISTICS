@@ -1,5 +1,5 @@
 ## Overviews of the Findings in Each Graph
-plot1.png - This first plot looks at the amount of NFL starters that were ruled out since 2014 filtered by position. The graph shows that over the past decade, cornerbacks are the most susceptible to injury while fullback is the least susceptible to injury. 
+plot1.png - This first plot looks at the amount of NFL starters that were ruled out since 2014 filtered by position. The graph shows that over the past decade, cornerbacks are the most injured position while fullback is the least injured position. 
 
 plot2.png - The next plot looks at the proportion of NFL starters who were ruled out since 2014 also filtered by position. While the first graph does show how much a position gets injured, it doesn't take into account the amount of players for each position that are on the field. After finding the proportions (total number of NFL starters ruled out by position / total number of NFL starters by position), we can see that CB is still the most injured position. However, after that, the order starts to change. Tight End becomes the second most likely position to be injured as opposed to linebacker in the first graph.
 
