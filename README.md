@@ -1,7 +1,7 @@
 # NFL_INJURY_STATISTICS
 NFL injury statistics
 
-## REQuiREMENTS
+## REQUIREMENTS
 
 `import nflreadpy as nfl` - This is needed to get the data required for a project like this directly into your notebook
 
