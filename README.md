@@ -5,7 +5,7 @@ This project looked at the injury statistics from the NFL over the past 12 years
 ## Requirements
 `import nflreadpy as nfl` - This is needed to get the data required for this project directly into your notebook.
 
-`import numpy as np` - This is need for numerical analyis of arrays and series.
+`import numpy as np` - This is need for numerical analysis of arrays and series.
 
 `import pandas as pd` - This is needed to "clean" the data and to filter out what you need by using DataFrames.
 
